@@ -229,8 +229,6 @@ def dht_sensor_info(mode='real-time', file_path=None, port='/dev/ttyUSB0', baudr
 
 `sensor_functions`는 OpenAI API가 호출할 수 있도록 정의된 JSON 구조입니다. 각 함수는 특정 센서의 데이터를 실시간으로 가져오거나 저장된 파일에서 조회할 수 있도록 구성되어 있습니다.
 
----
-
 ### **코드**
 
 ```python
