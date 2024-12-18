@@ -23,7 +23,7 @@ import requests  # HTTP 요청용
 import time  # 시간 지연용
 
 # 설정
-WEBHOOK_URL = "https://discord.com/api/webhooks/1317120025986994216/ClO-mxxZW5oZ1sQnmTVh4rIVPahVVe-p_43dXB35gfidVrGzaDigmDC1R5YVqztmZZSZ"  # Discord 웹훅 URL 입력
+WEBHOOK_URL = "please enter your webhook url"  # Discord 웹훅 URL 입력
 SERIAL_PORT = "/dev/ttyUSB0"  # Arduino 시리얼 포트 확인 (ls /dev/tty* 로 확인 가능)
 BAUD_RATE = 9600  # Arduino와 동일한 Baud Rate 설정
 
