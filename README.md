@@ -35,7 +35,7 @@
 │   ├── main_arduino.md   # 메인 아두이노 센서값 측정 코드 
 │   ├── sensor_data.md    # 센서 데이터 수집 코드 
 │   ├── discord_alert.md  # Discord 알림 시스템 코드 
-│   └── chatbot_ui.py     # Gradio UI 기반 챗봇 코드 
+│   └── chatbot_ui.md     # Gradio UI 기반 챗봇 코드 
 ├── test/                 # 테스트 코드
 ├── docs/                 # 추가 문서화 
 ├── data/                 # CSV 데이터 저장 폴더 
