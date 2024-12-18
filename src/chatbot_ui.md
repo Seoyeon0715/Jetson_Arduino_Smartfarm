@@ -13,9 +13,9 @@
 다음 라이브러리를 설치해야 합니다:
 
 ```bash
-pip install openai
-pip install gradio
-pip install pyserial
+!pip install openai
+!pip install gradio
+!pip install pyserial
 ```
 
 ### **환경 변수 설정**
